@@ -9,4 +9,4 @@ License
 Contributing
 Tests
 Questions
-... and then links to their GitHub to create a ReadMe!
+... and then links to their GitHub to create a good ReadMe!
